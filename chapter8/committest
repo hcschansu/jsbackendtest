@@ -1,0 +1,5 @@
+PS C:\Users\USER\Documents\git> cd C:\Users\USER\Documents\git\jsbackendtest\chapter8
+PS C:\Users\USER\Documents\git\jsbackendtest\chapter8> npm install @nestjs/cli
+PS C:\Users\USER\Documents\git\jsbackendtest\chapter8> npx @nestjs/cli new blog
+PS C:\Users\USER\Documents\git\jsbackendtest\chapter8> cd blog
+PS C:\Users\USER\Documents\git\jsbackendtest\chapter8> npm start
